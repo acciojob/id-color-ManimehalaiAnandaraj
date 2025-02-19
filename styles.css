@@ -4,10 +4,12 @@
 	border:1px solid green;
 }
 #red{
+	
 	background-color:red;
-	border:1px solid red;
+	border:1px solid black;
 }
 #green{
+	
 	background-color:green;
 	border:1px solid green;
 }
